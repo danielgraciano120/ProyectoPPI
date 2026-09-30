@@ -4,7 +4,7 @@
 
 Sistema web para centralizar la gestión de tours, salidas programadas, guías, vehículos, reservas y reseñas de la agencia **The Medellin Flavor**.
 
-## 📌 Información del proyecto
+## Información del proyecto
 
 Proyecto académico desarrollado en conjunto con la agencia de tours privados **The Medellin Flavor** (Medellín, Antioquia), una agencia real que ofrece tours privados por:
 
@@ -15,14 +15,14 @@ Proyecto académico desarrollado en conjunto con la agencia de tours privados **
 
 La agencia trabaja con guías bilingües (español/inglés) y vehículos propios (camionetas y buses, según la cantidad de personas).
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 | Capa | Tecnología |
 |------|------------|
 | Base de datos | MySQL |
 | Backend | .NET Core |
 
-## ❗ Descripción del problema
+##  Descripción del problema
 
 Actualmente, The Medellin Flavor gestiona sus tours, reservas, guías y vehículos de forma manual (mensajes, hojas de cálculo, WhatsApp), lo que genera varios problemas:
 
@@ -33,7 +33,7 @@ Actualmente, The Medellin Flavor gestiona sus tours, reservas, guías y vehícul
 
 Esto hace necesario desarrollar un sistema web que centralice la gestión de tours, guías, vehículos, reservas y reseñas de la agencia.
 
-## 🎯 Objetivos
+##  Objetivos
 
 ### Objetivo general
 
@@ -47,7 +47,7 @@ Desarrollar un sistema web de reservas de tours para la agencia The Medellin Fla
 - Permitir a los administradores gestionar el catálogo de tours, asignar guías y vehículos a cada salida, y responder las reseñas de los clientes.
 - Registrar el historial de cambios de estado de cada reserva, para tener trazabilidad completa del proceso.
 
-## 📦 Alcance
+##  Alcance
 
 - **Usuarios y roles:** gestión de usuarios con roles de Cliente, Guía y Administrador.
 - **Catálogo:** tours, categorías y destinos (un tour puede incluir varias paradas).
